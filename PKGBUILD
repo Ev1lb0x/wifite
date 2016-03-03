@@ -1,5 +1,5 @@
 pkgname=wifite-git
-pkgver=138.edbdedd
+pkgver=20160302
 pkgrel=1
 pkgdesc="A tool to attack multiple WEP and WPA encrypted networks at the same time"
 arch=(any)
